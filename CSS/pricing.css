@@ -1,0 +1,33 @@
+/* Pricing */
+.pricing-container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .pricing-option {
+    margin-bottom: 20px;
+  }
+  .PricingH1{
+    color: #0CDCF3;
+  }
+   .PricingH2 {
+    color: rgb(233, 19, 105);
+  }
+  
+  .signup-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0cdcf3;
+    color: rgb(96, 4, 41);
+    text-decoration: none;
+    border-radius: 5px;
+  
+  }
+  .signup-link :hover{
+    background-color: #36b5c3;
+    color: white
+  }
